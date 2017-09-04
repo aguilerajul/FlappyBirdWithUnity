@@ -1,3 +1,5 @@
 # FlappyBirdWithUnity
 
-This is a very simple game, to replicate the basic of flappy bird, using pipe pooling.
+This is a very basic game, trying to replicate flappy bird.
+
+The pipes were creating using the Pooling Pattern.
